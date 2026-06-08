@@ -3984,12 +3984,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "glance": {
-    "date": "2026-05-12T17:53:33+08:00",
+    "date": "2026-06-07T22:08:43+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-kCD5CNPVmBWdZjZlUODTwJjCMrTCaF41KHyQuQMWwRw=",
+    "hash": "sha256-WIK39rRrbz78ZFvBrtp77sSBodU83yaUnwNlHKH/yuw=",
     "leaveDotGit": false,
     "meta": {
       "author": "ChaoXu",
@@ -4015,10 +4015,10 @@
       "screenshot": "https://raw.githubusercontent.com/ChaoXu1997/glance/master/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/bd76mk64ikhgv7zv8h6q3kk268pm5ndl-glance",
-    "rev": "df3fd06e003c1b49694bf66f3439a50285f740df",
+    "path": "/nix/store/c4vx4gj9acsavx52ln1873lmgw9bdlz9-glance",
+    "rev": "99c7e277b3e45be6282f39d6e7701e54ea6556a4",
     "rootDir": "",
-    "sha256": "07612q1vk43w50smws62nhrc5660sgh50r9ncsfib66msc4gj84h",
+    "sha256": "1v6azyhiqr83kya2dprwsnhq3i7fggdaxhavcky3wvvbnkvbg0jq",
     "url": "https://github.com/ChaoXu1997/glance"
   },
   "grimblast": {
@@ -4061,12 +4061,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "hiddenBar": {
-    "date": "2026-06-05T23:33:36+07:00",
+    "date": "2026-06-08T03:13:06+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/vDRCJdkNaIb9gMJp6JEUae6Mz7YIWrcSM2JcVkaysU=",
+    "hash": "sha256-w3zBHT5QxT3WZ3RoHbNB+qy6D65rDKIEV3qqLghC/Zg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4090,10 +4090,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-hidden-bar/master/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/wk4xi0klm8y57l04n8rmaqjb2z2cs9yr-dms-hidden-bar",
-    "rev": "6409f109a954f0c317e6aefea64eadf377098ecc",
+    "path": "/nix/store/0cq8rfjnd68mw64m6vhfmqflk8jfgy24-dms-hidden-bar",
+    "rev": "638616fc1a57d6ab722bf903b5584f5afc1e4d24",
     "rootDir": "",
-    "sha256": "1ifa39cp32fd93f6l8fq7qrvm9si8jiaf283yqds4db4jw4d3w7y",
+    "sha256": "167x8842xaksaw2a433bmq7vmb7s86riss3lczb3viah7qfw2z63",
     "url": "https://github.com/hthienloc/dms-hidden-bar"
   },
   "homeAssistantMonitor": {
@@ -4908,12 +4908,12 @@
     "url": "https://github.com/kanghengliu/dms-mpvpaper"
   },
   "musicLyrics": {
-    "date": "2026-02-24T23:20:07+07:00",
+    "date": "2026-06-08T10:16:17+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-22WKbmfNb2TcmTxlxijqHF48nQYTK26vs/3W8/TzrBo=",
+    "hash": "sha256-4CdXSjhXhHGwmh7mJcw6vJqTHOZNXbABSYBtHJqTm/Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "gasiyu",
@@ -4934,12 +4934,12 @@
       "name": "Music Lyrics",
       "repo": "https://github.com/gasiyu/dms-plugin-musiclyrics",
       "screenshot": "https://raw.githubusercontent.com/Gasiyu/dms-plugin-musiclyrics/main/screenshots.png",
-      "version": "1.4.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/nbd5ch4h5jhwq06fsh587c6i7x3507bj-dms-plugin-musiclyrics",
-    "rev": "4f7a65475ad3774a38190808729de7e6e4c84d61",
+    "path": "/nix/store/kql32ilpxyq2ql858kxrlniwpaywivyc-dms-plugin-musiclyrics",
+    "rev": "eee104c5107182b6a2caa383bac05d0c11b2974a",
     "rootDir": "",
-    "sha256": "06mcygsg7mpxnfpnwaqk0sfkqphwx8lccr9wk7f68vydcxp8lrfv",
+    "sha256": "1xlvjfd1qvc0940v0padwqf976mw7b62brhykaq7312p7155f9z0",
     "url": "https://github.com/gasiyu/dms-plugin-musiclyrics"
   },
   "nepaliCalendar": {
