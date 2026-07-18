@@ -1113,12 +1113,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "clipboardPlus": {
-    "date": "2026-07-08T23:15:03+07:00",
+    "date": "2026-07-17T19:33:47+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3tNAADFRhIDDFLxxVBPsXG/saXGO5+HTlWSzZa7DeKc=",
+    "hash": "sha256-6/Rx8b90tjOdP9Gn2XKFRicKaMhbU2je2XGHTzaNyp8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -1144,10 +1144,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/ClipboardPlus/preview/preview-blur.png",
       "version": "1.1.2"
     },
-    "path": "/nix/store/32qmkkjcnap14xfqdwcqdrasr8dxs5b8-dms-plugins",
-    "rev": "31d53741f7582bfef16f415b0390369aec87ffb8",
+    "path": "/nix/store/162wjfmm498pi9rpi53kakl59m3cqamq-dms-plugins",
+    "rev": "67177bc72998420a8a402b88e285d45d0021fe40",
     "rootDir": "",
-    "sha256": "19vqqfp6bcv4jp9y3rwff5lyqvswxh9m8wdw2k1q112i64041lyy",
+    "sha256": "17yailv4z1viv7g6hlsvr1l0l9s6hmrdk9yi7yfk7dklpzqp3x7b",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "codeIsland": {
@@ -3433,12 +3433,12 @@
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "ephemera": {
-    "date": "2026-07-15T13:46:38-05:00",
+    "date": "2026-07-17T14:20:38-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-h8/lVANAuXR2JIOgZxWHqeH1UEjHtiPtAhfraVGqO58=",
+    "hash": "sha256-/HQrQGHfWVnsVjth2EZHkj0b5dJ/ZD0fqX4n6aOWF14=",
     "leaveDotGit": false,
     "meta": {
       "author": "nicolasgarcia214",
@@ -3462,12 +3462,12 @@
       "name": "Ephemera",
       "repo": "https://github.com/nicolasgarcia214/Ephemera",
       "screenshot": "https://github.com/nicolasgarcia214/Ephemera/blob/master/screenshots/screenshot.jpg?raw=true",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/xlcih0dnw1wb9b8gdg38xg2sfkqf1rix-Ephemera",
-    "rev": "e3ffa6b321d5b7460f45ddfc10fb2a600cd5c208",
+    "path": "/nix/store/zag572kxqcl047i12ccsm0wjkv5rdzcd-Ephemera",
+    "rev": "f2790087d5ef8499fd548f5e0dbb61244d29ad8c",
     "rootDir": "",
-    "sha256": "17rvm98nksqp0bnj7dn7918gbqd9hwang8434iv79fa00dafbkw7",
+    "sha256": "0phpjsiyj9vym4gksr3zsbjingcj8x3dhq9vavn5jnfzc502nx7w",
     "url": "https://github.com/nicolasgarcia214/Ephemera"
   },
   "extendedNetworkToggle": {
@@ -4728,12 +4728,12 @@
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "mediaControlPlus": {
-    "date": "2026-07-08T23:15:03+07:00",
+    "date": "2026-07-17T19:33:47+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3tNAADFRhIDDFLxxVBPsXG/saXGO5+HTlWSzZa7DeKc=",
+    "hash": "sha256-6/Rx8b90tjOdP9Gn2XKFRicKaMhbU2je2XGHTzaNyp8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -4756,10 +4756,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/MediaControlPlus/preview/vertical.png",
       "version": "1.0.5"
     },
-    "path": "/nix/store/32qmkkjcnap14xfqdwcqdrasr8dxs5b8-dms-plugins",
-    "rev": "31d53741f7582bfef16f415b0390369aec87ffb8",
+    "path": "/nix/store/162wjfmm498pi9rpi53kakl59m3cqamq-dms-plugins",
+    "rev": "67177bc72998420a8a402b88e285d45d0021fe40",
     "rootDir": "",
-    "sha256": "19vqqfp6bcv4jp9y3rwff5lyqvswxh9m8wdw2k1q112i64041lyy",
+    "sha256": "17yailv4z1viv7g6hlsvr1l0l9s6hmrdk9yi7yfk7dklpzqp3x7b",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "mediaControlsPlus": {
@@ -4977,12 +4977,12 @@
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "netbirdStatus": {
-    "date": "2026-07-08T23:15:03+07:00",
+    "date": "2026-07-17T19:33:47+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3tNAADFRhIDDFLxxVBPsXG/saXGO5+HTlWSzZa7DeKc=",
+    "hash": "sha256-6/Rx8b90tjOdP9Gn2XKFRicKaMhbU2je2XGHTzaNyp8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -5007,10 +5007,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/NetbirdStatus/preview/widget.png",
       "version": "1.0.2"
     },
-    "path": "/nix/store/32qmkkjcnap14xfqdwcqdrasr8dxs5b8-dms-plugins",
-    "rev": "31d53741f7582bfef16f415b0390369aec87ffb8",
+    "path": "/nix/store/162wjfmm498pi9rpi53kakl59m3cqamq-dms-plugins",
+    "rev": "67177bc72998420a8a402b88e285d45d0021fe40",
     "rootDir": "",
-    "sha256": "19vqqfp6bcv4jp9y3rwff5lyqvswxh9m8wdw2k1q112i64041lyy",
+    "sha256": "17yailv4z1viv7g6hlsvr1l0l9s6hmrdk9yi7yfk7dklpzqp3x7b",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "networkIndicator": {
@@ -6117,12 +6117,12 @@
     "url": "https://github.com/lpv11/dms-hypr-show-desktop"
   },
   "simpleAudioControl": {
-    "date": "2026-07-08T23:15:03+07:00",
+    "date": "2026-07-17T19:33:47+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3tNAADFRhIDDFLxxVBPsXG/saXGO5+HTlWSzZa7DeKc=",
+    "hash": "sha256-6/Rx8b90tjOdP9Gn2XKFRicKaMhbU2je2XGHTzaNyp8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -6145,10 +6145,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/SimpleAudioControl/preview/tab-1.png",
       "version": "1.0.5"
     },
-    "path": "/nix/store/32qmkkjcnap14xfqdwcqdrasr8dxs5b8-dms-plugins",
-    "rev": "31d53741f7582bfef16f415b0390369aec87ffb8",
+    "path": "/nix/store/162wjfmm498pi9rpi53kakl59m3cqamq-dms-plugins",
+    "rev": "67177bc72998420a8a402b88e285d45d0021fe40",
     "rootDir": "",
-    "sha256": "19vqqfp6bcv4jp9y3rwff5lyqvswxh9m8wdw2k1q112i64041lyy",
+    "sha256": "17yailv4z1viv7g6hlsvr1l0l9s6hmrdk9yi7yfk7dklpzqp3x7b",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "sshConnections": {
@@ -6371,12 +6371,12 @@
     "url": "https://github.com/hthienloc/dms-stopwatch"
   },
   "systemMonitorPlus": {
-    "date": "2026-07-08T23:15:03+07:00",
+    "date": "2026-07-17T19:33:47+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3tNAADFRhIDDFLxxVBPsXG/saXGO5+HTlWSzZa7DeKc=",
+    "hash": "sha256-6/Rx8b90tjOdP9Gn2XKFRicKaMhbU2je2XGHTzaNyp8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -6397,12 +6397,12 @@
       "path": "SystemMonitorPlus",
       "repo": "https://github.com/Dadangdut33/dms-plugins",
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/SystemMonitorPlus/preview/preview.png",
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
-    "path": "/nix/store/32qmkkjcnap14xfqdwcqdrasr8dxs5b8-dms-plugins",
-    "rev": "31d53741f7582bfef16f415b0390369aec87ffb8",
+    "path": "/nix/store/162wjfmm498pi9rpi53kakl59m3cqamq-dms-plugins",
+    "rev": "67177bc72998420a8a402b88e285d45d0021fe40",
     "rootDir": "",
-    "sha256": "19vqqfp6bcv4jp9y3rwff5lyqvswxh9m8wdw2k1q112i64041lyy",
+    "sha256": "17yailv4z1viv7g6hlsvr1l0l9s6hmrdk9yi7yfk7dklpzqp3x7b",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "tailscale": {
@@ -6735,12 +6735,12 @@
     "url": "https://github.com/kerojiang/dms-transBin"
   },
   "unifiedTaskbar": {
-    "date": "2026-06-20T22:58:11-04:00",
+    "date": "2026-07-17T22:49:18-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-vvjDdX0F0R9zD20Ii/Tw6Gh0Or+JlwtPQMN8tMXCxUQ=",
+    "hash": "sha256-71wIg+ndD/TD6h87yxOdOdNhNRNrhVCFPEHnV3vltbQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -6760,12 +6760,12 @@
       "name": "Unified Taskbar",
       "repo": "https://github.com/jslandau/dms-unified-taskbar",
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
-      "version": "1.1.1"
+      "version": "1.1.2"
     },
-    "path": "/nix/store/xzclq840rq5wx5b6vwykbz7sa7bb5ipa-dms-unified-taskbar",
-    "rev": "0dd45d5c6b3f217594a2bd361527efae71b78378",
+    "path": "/nix/store/87376i3a27axr8mc0y3jfa7j8k32bhk3-dms-unified-taskbar",
+    "rev": "0e54bd7be92267c6028e606a20c84a0cddfbbae3",
     "rootDir": "",
-    "sha256": "0i65qb2v8z63817hp5w9pwx78s78y3s8n23d1xrizl85gmsw7y5y",
+    "sha256": "1d5mwmxmgrs17j2m11bb2csn3lrrkl9wnfqzxb1z83yxx61hhp7g",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "uptimeBar": {
