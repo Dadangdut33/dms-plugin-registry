@@ -36,12 +36,12 @@
     "url": "https://github.com/hthienloc/dms-activate-linux"
   },
   "adguardVPplugin": {
-    "date": "2026-07-25T13:48:16-03:00",
+    "date": "2026-08-02T00:13:32-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/db+1unk4SdcCJ0NyWpxJPpYDOCOlh447l1ytyeb1L0=",
+    "hash": "sha256-GVRXwaRiep4TTx6tMGeCmpmw0tbXqGciU//htbauuG0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -66,12 +66,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.5.3"
+      "version": "1.6.0"
     },
-    "path": "/nix/store/hwy5ikpk3ayzvw0mk1jbzw2b3djljwi0-dms-adguard-vpn-plugin",
-    "rev": "1c4756cbe3d51f4d15d986fd3f12d0d2b2b5c09b",
+    "path": "/nix/store/a64m65n6jvnb508wacc00b5yjhzzzhjd-dms-adguard-vpn-plugin",
+    "rev": "775aa4f057358880ecd97f520883f6b83219c6f7",
     "rootDir": "",
-    "sha256": "1gflkckvfwjxxqw1x5lfw065iyi4f5mcj3cx11f2gqg4x7bgxmpx",
+    "sha256": "0vdqmsvbbqgzaci6ga6psv9b16csh9kk1b8y9w9rwyk2lk0mfm0r",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
